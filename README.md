@@ -1,6 +1,16 @@
-# AngularAnimations
+# Angular Animations
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.4.
+
+##Description
+This template guides the user on how to implement a ng-animate angular library on an angular application.It helps us to build the creative page and helps to applying different animations of the angular which enhances the effects of the page.  
+
+## ng-animate
+ng-animate is a collection of cool, reusable and flexible animations for Angular. It implements all the animations in animate.css, but with the power and flexibility of [Angular animations](https://angular.io/guide/animations) instead of CSS.
+
+## Usage
+
+npm install ng-animate --save
 
 ## Development server
 
