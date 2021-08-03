@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.4.
 
-##Description
+## Description
 This template guides the user on how to implement a ng-animate angular library on an angular application.It helps us to build the creative page and helps to applying different animations of the angular which enhances the effects of the page.  
 
 ## ng-animate
